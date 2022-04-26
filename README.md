@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/mycrochip/huddle-landing-page-with-single-introductory-section-master.git)
+- Solution URL: [GitHub](https://github.com/mycrochip/huddle-landing-page-with-single-introductory-section.git)
 
 - Live Site URL: [GitHub Pages](https://mycrochip.github.io/huddle-landing-page-with-single-introductory-section/)
 
